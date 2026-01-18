@@ -1,1 +1,1 @@
-# medical-shop-mangement-
+# medical-shop-mangement- mini project
